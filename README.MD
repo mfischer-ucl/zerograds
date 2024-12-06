@@ -20,7 +20,7 @@ conda activate zerograds
 pip install -r requirements.txt 
 ```
 
-You should then be able to run the example in `examples/optimize_proxy_toyexample.py`. To do so, `cd` into the folder, and run
+You should then be able to run the example in `examples/optimize_proxy_toyexample.py`. To do so, cd into `experiments/toy_example` and run
 `export PYTHONPATH=../.. && python optimize_proxy_toyexample.py`. If all goes well, the script will run a small toy example 
 optimization and output a video called `output.mp4`: 
 
