@@ -1,0 +1,15 @@
+/__pychache__/*
+.idea/*
+*.json
+*.png
+*.npy
+*.dat
+*.pt
+*.jpg
+*.mp4
+*.pyc
+*.tfevents*
+*.eps 
+*.ply
+/experiments/toy_example/results/*
+/blender/*
